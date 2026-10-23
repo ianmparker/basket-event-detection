@@ -1,3 +1,7 @@
+> **Archived prototype (March 2024).** This was my first basketball computer-vision
+> project: a YOLO ball/hoop detector that counted shoot-around baskets. It is kept for
+> history. The current, evaluation-first pipeline is at
+> [ianmparker/basketball-perception](https://github.com/ianmparker/basketball-perception).
 # basket-event-detection
 ![child vs bot in basketball](https://github.com/ianmparker/basket-detection/assets/18231849/4aa94c81-fa3c-4e42-96bb-93e25cafea5e)
 
